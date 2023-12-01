@@ -9,4 +9,4 @@ Use the Composite pattern when
 * you want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will treat all objects in the composite structure uniformly.
 ## Structure
 
-![Alt text](https://www.cs.unc.edu/~stotts/GOF/hires/Pictures/compo072.gif)
+
