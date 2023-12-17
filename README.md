@@ -2,7 +2,7 @@
 
 Welcome to my Design-Pattern-7B repository! This repository is dedicated to providing information and coding examples related to various design principles. Additionally, it serves as a platform for sharing insights and understanding, related to different design patterns.
 
-Author: Muhammad Talah Khan
+Author: Ghulam Abbas
 
 # Design Principles 🚀
 ## What is Design Pattern?
