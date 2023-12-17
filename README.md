@@ -48,7 +48,7 @@ Each design pattern solves a specific problem, providing a general reusable solu
 
 Clone my repository using the following bash command
 ```bash
-git clone git@github.com:determinoX/Design-Pattren-7B.git
+https://github.com/shani710/Design-Pattern_LabWork.git
 
 ```
 
