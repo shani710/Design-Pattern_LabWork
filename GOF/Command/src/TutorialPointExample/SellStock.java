@@ -6,7 +6,7 @@
 package TutorialPointExample;
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-053
  */
 public class SellStock implements Order {
    private Stock abcStock;
